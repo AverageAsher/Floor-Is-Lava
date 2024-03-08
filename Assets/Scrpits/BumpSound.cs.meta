@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a3a512c48fcac9544a4add3e4ae19f35
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bump: {fileID: 8300000, guid: 03c506f9c38eb4449870c36d990464d7, type: 3}
+  - crash: {fileID: 8300000, guid: 8c4b8b8e20863544088665b3f1c46398, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
